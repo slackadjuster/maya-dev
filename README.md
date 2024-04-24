@@ -6,7 +6,7 @@ Follow these steps to get your own MayaGPT instance running locally.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/slackadjuster/mayagpt.git
+git clone https://github.com/slackadjuster/maya-dev.git
 ```
 
 ### 2. Install Dependencies
